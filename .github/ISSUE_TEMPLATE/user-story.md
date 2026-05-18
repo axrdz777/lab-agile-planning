@@ -3,7 +3,7 @@ name: User Story
 about: This template is for creating user storys
 title: ''
 labels: ''
-assignees: ''
+assignees: axrdz777
 
 ---
 
